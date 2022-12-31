@@ -2,8 +2,7 @@
 
 This project is where I brush up on my React.JS and get exposed to SCSS and learn GASP to create cool animations for my porfolio v2.0.
 
-
-
+I followed the instruction form the following youtube video: "https://www.youtube.com/watch?v=bmpI252DmiI"
 
 # Getting Started with Create React App
 
