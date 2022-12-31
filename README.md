@@ -1,3 +1,10 @@
+# Test porfolio website
+
+This project is where I brush up on my React.JS and get exposed to SCSS and learn GASP to create cool animations for my porfolio v2.0.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
